@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\Othello\Othello\bin\Debug\Othello.exe.config
+C:\Users\Alex\source\repos\Othello\Othello\bin\Debug\Othello.exe
+C:\Users\Alex\source\repos\Othello\Othello\bin\Debug\Othello.pdb
+C:\Users\Alex\source\repos\Othello\Othello\obj\Debug\Othello.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Othello\Othello\obj\Debug\Othello.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Othello\Othello\obj\Debug\Othello.exe
+C:\Users\Alex\source\repos\Othello\Othello\obj\Debug\Othello.pdb
